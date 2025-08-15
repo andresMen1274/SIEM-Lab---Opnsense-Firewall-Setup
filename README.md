@@ -27,3 +27,4 @@ Then I will open the web browser and look up the defalut IP that was given and l
 
 <img width="1272" height="921" alt="image" src="https://github.com/user-attachments/assets/d7f00c16-d0c1-4da2-94d7-625338ce195a" />
 
+This concludes the first part of the OPNsense firewall configuration for Virtual Box.
